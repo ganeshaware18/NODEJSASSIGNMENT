@@ -31,3 +31,9 @@ con.connect(function(err) {
     console.log("Number of records inserted: " + result.affectedRows);
   });
 });
+
+/*
+PS D:\NODEJSASSIGNMENT\NODEJSASSIGNMENT\ASSIGNMENT 2> node "d:\NODEJSASSIGNMENT\NODEJSASSIGNMENT\ASSIGNMENT 2\InsertMultiple.js"
+Connected!
+Number of records inserted: 12
+*/
